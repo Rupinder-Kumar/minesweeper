@@ -311,6 +311,8 @@ var newGame = function (boardSize, mines) {
     return board;
 }
 
+
+/* Constants */
 var FLAG = "&#9873;";
 var MINE = "&#9881;";
 var boardSize = 10;
